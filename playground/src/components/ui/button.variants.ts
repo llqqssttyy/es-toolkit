@@ -19,6 +19,7 @@ export const buttonSize = {
 export const buttonColor = {
   primary: 'bg-primary text-primary-foreground hover:bg-primary/90',
   secondary: 'bg-secondary text-secondary-foreground hover:bg-secondary/80',
+  green: 'bg-green-700 text-white hover:bg-green-800',
 };
 
 export const buttonVariants = cva(
